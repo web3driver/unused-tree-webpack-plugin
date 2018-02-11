@@ -1,0 +1,22 @@
+{
+  "name": "unused-tree-webpack-plugin",
+  "version": "0.0.1",
+  "description": "Find out your unused files & display it with 'tree-like' structuer",
+  "main": "src/webpackPlugin.js",
+  "keywords": [
+    "tree",
+    "nodejs",
+    "webpack",
+    "unused files"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yvshuo/unused-tree-webpack-plugin.git"
+  },
+  "author": "yvshuo",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.1.2",
+    "tree-ls": "0.0.4"
+  }
+}
